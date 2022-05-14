@@ -17,7 +17,8 @@ My English is very poor. I sorry for some grammatical errors.
 [![Telegram](https://img.shields.io/badge/-@dreamonex1-2E9FD7?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/dreamonex1) [![Tencent QQ](https://img.shields.io/badge/-1538874738-00C2F2?logo=tencentqq&logoColor=white&style=for-the-badge)](https://qm.qq.com/cgi-bin/qm/qr?k=rbknx18REkcU12VBJTxX7wAnNnrPLBZ8&noverify=0)<br />
 [![Discord](https://img.shields.io/badge/-DreamOneX%238950-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discordhub.com/profile/877528571214692382) [![Twitter](https://img.shields.io/badge/-@dreamonex1-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/dreamonex1)<br />
 [![Github](https://img.shields.io/badge/-DreamOneX-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/DreamOneX)
-[![QQMail](https://img.shields.io/badge/-dreamonex@qq.com-00C2F2?logo=Mail.RU&logoColor=white&style=for-the-badge)](mailto:dreamonex@qq.com) [![Outlook](https://img.shields.io/badge/-dreamonex1@outlook.com-0E73CD?logo=microsoftoutlook&logoColor=white&style=for-the-badge)](mailto:dreamonex1@outlook.com)<br />
+[![QQMail](https://img.shields.io/badge/-dreamonex@qq.com-00C2F2?logo=Mail.RU&logoColor=white&style=for-the-badge)](mailto:dreamonex@qq.com)<br />
+[![Outlook](https://img.shields.io/badge/-dreamonex1@outlook.com-0E73CD?logo=microsoftoutlook&logoColor=white&style=for-the-badge)](mailto:dreamonex1@outlook.com)<br />
 [![Gmail](https://img.shields.io/badge/-dreamonex1@gmail.com-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:dreamonex1@gmail.com)
 ## My public keys
 ### PGP
