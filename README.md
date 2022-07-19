@@ -1,7 +1,7 @@
 # DreamOneX
 ![](https://count.getloli.com/get/@DreamOneX.github.readme)<br />
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DreamOneX&count_private=true&theme=blue-green&show_icons=true&hide_border=true)<br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DreamOneX&layout=compact)<br />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DreamOneX&layout=compact&exclude_repo=dreamonex.github.io,DawnLight-Source&langs_count=8&hide=html,css,scss)<br />
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DreamOneX&theme=github-dark-blue)<br />
 ![github-profile-trophy](https://github-profile-trophy.vercel.app/?username=DreamOneX&theme=discord)
 ## Introduction
