@@ -76,7 +76,6 @@ Fingerprint = 4792 6B6E 5C3D 04E9 3A2A  627F 67C3 3900 10A1 A57A
 
 * [Github](https://github.com/DreamOneX.keys)
 
-<<<<<<< HEAD
 ## 📬 Contact Information
 
 Welcome to DM me~ I am happy to make friends.
@@ -109,14 +108,11 @@ DM is welcome! But please try to **avoid using QQ** to contact me. I suggest you
 ![github-profile-trophy](https://github-profile-trophy.vercel.app/?username=DreamOneX&theme=discord)
 
 
-=======
->>>>>>> origin/master
 ---
 <details>
 <summary>Metrics</summary>
 <img src="https://metrics.lecoq.io/DreamOneX?template=classic&repositories.forks=true&repositories=1&isocalendar=1&languages=1&stars=1&followup=1&people=1&gists=1&introduction=1&activity=1&achievements=1&stackoverflow=1&lines=1&repositories=100&repositories.batch=100&repositories.forks=true&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=16&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&followup.sections=repositories&followup.indepth=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&repositories.featured=DreamOneX%2FLookitup&introduction.title=true&stackoverflow.user=16749861&stackoverflow.sections=answers-top%2C%20questions-recent&stackoverflow.limit=2&stackoverflow.lines=4&stackoverflow.lines.snippet=2&config.timezone=Asia%2FShanghai alt="不见图，请刷新"></img>     
 </details>
-<<<<<<< HEAD
 
 -----
 
@@ -156,6 +152,3 @@ DM is welcome! But please try to **avoid using QQ** to contact me. I suggest you
 </i>
 </div>
 </details>
-=======
->>>>>>> origin/master
-
