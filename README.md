@@ -1,8 +1,8 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=DreamOneX&count_private=true&theme=blue-green&show_icons=true&hide_border=true">
+<img align="right" src="https://count.getloli.com/get/@DreamOneX.github.readme">
 
 # DreamOneX 🍥
 
-![](https://count.getloli.com/get/@DreamOneX.github.readme)
+![](https://github-readme-stats.vercel.app/api?username=DreamOneX&count_private=true&theme=blue-green&show_icons=true&hide_border=true)
 
 💬 a.k.a. `MorningDreamOne`
 > 📝 A ~~lovely cat~~ from China (人*´∀｀)｡*ﾟ Like to play Minecraft, coding and etc. What's more, I like **sleep** and want to sleep anytime ~ ~~How could an individual of `Homo sapiens` not like to sleep ?~~ I really don't like participating in any illogical discussion. Finally, I enjoy making friends. I am looking forward and welcome you to DM me via the contact information below.
