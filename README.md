@@ -1,6 +1,6 @@
 <img align="right" src="https://count.getloli.com/get/@DreamOneX.github.readme">
 
-# DreamOneX 🍥
+# 🍥 DreamOneX
 
 ![](https://github-readme-stats.vercel.app/api?username=DreamOneX&count_private=true&theme=blue-green&show_icons=true&hide_border=true)
 
