@@ -143,7 +143,7 @@ DM is welcome! But please try to **avoid using QQ** to contact me. I suggest you
 再次相遇！ <br/>
 </i>
 <div align="right">
-𝓜𝓸𝓻𝓷𝓲𝓷𝓰𝑫𝒓𝒆𝒂𝒎𝑶𝒏𝒆� <br />
+𝓜𝓸𝓻𝓷𝓲𝓷𝓰𝑫𝒓𝒆𝒂𝒎𝑶𝒏𝒆𝑿 <br />
 𝟸𝟶𝟸𝟸.𝟽.𝟸𝟻
 </div>
 <hr />
