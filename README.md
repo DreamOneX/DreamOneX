@@ -4,9 +4,9 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=DreamOneX&count_private=true&theme=blue-green&show_icons=true&hide_border=true)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2500&vCenter=true&lines=%E4%BD%A0%E5%A5%BD%EF%BC%81%E6%88%91%E6%98%AFDreamOneX;Hello!+I'm+DreamOneX;Nice+to+meet+you~)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=2500&vCenter=true&width=450&height=50&lines=%E4%BD%A0%E5%A5%BD%EF%BC%81%E6%88%91%E6%98%AFDreamOneX;Hello!+I'm+DreamOneX;Nice+to+meet+you~)
 
-💬 a.k.a. `MorningDreamOne`
+💬 a.k.a. `MorningDreamOneX`
 > 📝 A ~~lovely cat~~ from China (人*´∀｀)｡*ﾟ Like to play Minecraft, coding and etc. What's more, I like **sleep** and want to sleep anytime ~ ~~How could an individual of `Homo sapiens` not like to sleep ?~~ I really don't like participating in any illogical discussion. Finally, I enjoy making friends. I am looking forward and welcome you to DM me via the contact information below.
 
 * Advocate free and open source culture / Love information technology
