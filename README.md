@@ -17,7 +17,7 @@
 
 🚀 Let's give it a shot! Go for our dream!
 
-🌠 Now, I'm a freelance developer and don't belong to any organization.
+🌠 Now, I'm a freelance developer and am not owned by any organization.
 
 ⚡ I believe "Practice is the sole criterion for testing truth".
 
