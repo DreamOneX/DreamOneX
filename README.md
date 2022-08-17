@@ -62,6 +62,10 @@ Chromium 103.0.5060.134 Arch Linux
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DreamOneX&layout=compact&exclude_repo=dreamonex/dreamonex.github.io,dreamonex/DawnLight-Source&langs_count=8&hide=html,css,scss)
 
+### coding style
+
+[![State-of-the-art Shitcode](https://img.shields.io/static/v1?label=State-of-the-art&message=Shitcode&color=7B5804)](https://github.com/trekhleb/state-of-the-art-shitcode)
+
 ## 🔒 Public Keys
 ### PGP Public Key
 **Fingerprint**:  
