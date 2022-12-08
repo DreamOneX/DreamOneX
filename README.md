@@ -88,21 +88,18 @@ Welcome to DM me~ I am happy to make friends.
 
 ### 📧 Email
 
-If you are using **duckduckgo, Google** and other email services that are **blocked in mainland China**, it is recommended to send **PGP-encrypted** emails to my **[QQ mailbox](mailto:dreamonex@qq.com)**.  
-Otherwise, I recommend sending the mail to my **[personal mailbox](mailto:me@dreamonex.eu.org)**.  
-In additional, I **rarely** check **Gmail** and **Outlook**.
+I recommend sending the mail to my **[personal mailbox](mailto:me@dreamonex.eu.org)**.  
+In additional, I **rarely** check **Outlook**.
 
 [![MyMail](https://img.shields.io/badge/-me@dreamonex.eu.org-54BDF2?logo=Mail.RU&logoColor=white&style=for-the-badge)](mailto:me@dreamonex.eu.org)  
-[![QQMail](https://img.shields.io/badge/-dreamonex@qq.com-00C2F2?logo=Mail.RU&logoColor=white&style=for-the-badge)](mailto:dreamonex@qq.com)  
 [![Outlook](https://img.shields.io/badge/-dreamonex1@outlook.com-0E73CD?logo=microsoftoutlook&logoColor=white&style=for-the-badge)](mailto:dreamonex1@outlook.com)  
 [![Gmail](https://img.shields.io/badge/-dreamonex1@gmail.com-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:dreamonex1@gmail.com)
 
 ### 💬 Instant Messaging
 
-DM is welcome! But please try to **avoid using QQ** to contact me. I suggest you to contact me via **Telegram** or **email**. If you contact me through a platform and have not responded for more than **24 hours**, please **send me an email**. I may not have checked the messages from those platforms. **And I check my mailbox every day.**
+DM is welcome! I suggest you to contact me via **Telegram** or **email**. If you contact me through a platform and have not responded for more than **24 hours**, please **send me an email**. I may not have checked the messages from those platforms. **And I check my mailbox every day.**
 
 [![Telegram](https://img.shields.io/badge/-@dreamonex-2E9FD7?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/dreamonex)
-[![Tencent QQ](https://img.shields.io/badge/-1538874738-00C2F2?logo=tencentqq&logoColor=white&style=for-the-badge)](https://qm.qq.com/cgi-bin/qm/qr?k=rbknx18REkcU12VBJTxX7wAnNnrPLBZ8&noverify=0)  
 [![Discord](https://img.shields.io/badge/-DreamOneX%238950-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discordhub.com/profile/877528571214692382)
 [![Matrix](https://img.shields.io/badge/-@dreamonex:matrix.org-0DBD8B?logo=matrix&logoColor=white&style=for-the-badge)](https://matrix.to/#/@dreamonex:matrix.org)
 
