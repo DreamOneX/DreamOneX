@@ -2,7 +2,9 @@
 
 # 🍥 DreamOneX
 
-![](https://github-readme-stats.vercel.app/api?username=DreamOneX&count_private=true&show_icons=true&title_color=fff&icon_color=F8F8FF&text_color=F8F8FF&bg_color=DEG,FFB6C1,6495ED&hide_border=true)
+<!---![](https://github-readme-stats.vercel.app/api?username=DreamOneX&count_private=true&show_icons=true&title_color=fff&icon_color=F8F8FF&text_color=F8F8FF&bg_color=DEG,FFB6C1,6495ED&hide_border=true)--->
+
+![](https://github-readme-stats.vercel.app/api?username=DreamOneX&count_private=true&show_icons=true&title_color=fff&icon_color=F8F8FF&text_color=F8F8FF&bg_color=5BCEFA,5BCEFA,F5A9B8,FFF,F5A9B8,5BCEFA&hide_border=true)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=2500&vCenter=true&width=450&height=50&lines=%E4%BD%A0%E5%A5%BD%EF%BC%81%E6%88%91%E6%98%AFDreamOneX;Hello!+I'm+DreamOneX;Nice+to+meet+you~)
 
@@ -136,6 +138,29 @@ DM is welcome! I suggest you to contact me via **Telegram** or **email**. If you
 黑白本是同源，纠缠纷争不断，本应同为一家
 相煎何必太急，前进后退往复，何处是我归属
 你的过去无人知晓，你的历史无人证明
+--->
+<!---
+创造你的时候
+神开了个玩笑
+从此你灵魂滚烫
+命运冰凉
+
+你踏入这世界
+在人群中犹如孤岛
+于是
+成长像是迷雾中的蹒跚
+在风暴里聆听呢喃
+猜测前进的方向
+
+就这样
+你两次学习如何生活
+又经历两次死亡
+临终时
+你还剩下两个问题
+首先
+两个矛盾的梦如何被安放
+然后
+这些经历，回忆和梦究竟有什么意义
 --->
 请记住我的名字 <br/>
 如果你能记住我的名字 <br/>
