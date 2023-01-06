@@ -8,7 +8,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=2500&vCenter=true&width=450&height=50&lines=%E4%BD%A0%E5%A5%BD%EF%BC%81%E6%88%91%E6%98%AFDreamOneX;Hello!+I'm+DreamOneX;Nice+to+meet+you~)
 
-💬 a.k.a. `MorningDreamOneX`
+💬 a.k.a. `dream` or `morning`, In Chinese, you could call me `晨梦`
 > 📝 A ~~lovely neko~~ from China (人*´∀｀)｡*ﾟ Like to play Minecraft, coding and etc. What's more, I like **sleep** and want to sleep anytime ~ ~~How could an individual of `Homo sapiens` not like to sleep ?~~ I really don't like participating in any illogical discussion. Finally, I enjoy making friends. I am looking forward and welcome you to DM me via the contact information below.
 
 * Advocate free and open source culture / Love information technology
@@ -139,6 +139,7 @@ DM is welcome! I suggest you to contact me via **Telegram** or **email**. If you
 相煎何必太急，前进后退往复，何处是我归属
 你的过去无人知晓，你的历史无人证明
 --->
+ 
 <!---
 创造你的时候
 神开了个玩笑
@@ -162,6 +163,7 @@ DM is welcome! I suggest you to contact me via **Telegram** or **email**. If you
 然后
 这些经历，回忆和梦究竟有什么意义
 --->
+ 
 请记住我的名字 <br/>
 如果你能记住我的名字 <br/>
 如果你们都能记住我的名字 <br/>
