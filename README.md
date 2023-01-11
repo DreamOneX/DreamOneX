@@ -4,7 +4,7 @@
 
 <!---![](https://github-readme-stats.vercel.app/api?username=DreamOneX&count_private=true&show_icons=true&title_color=fff&icon_color=F8F8FF&text_color=F8F8FF&bg_color=DEG,FFB6C1,6495ED&hide_border=true)--->
 
-![](https://github-readme-stats.vercel.app/api?username=DreamOneX&count_private=true&show_icons=true&title_color=fff&icon_color=F8F8FF&text_color=F8F8FF&bg_color=5BCEFA,5BCEFA,F5A9B8,FFF,F5A9B8,5BCEFA&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=DreamOneX&count_private=true&show_icons=true&bg_color=5BCEFA,5BCEFA,F5A9B8,FFF,F5A9B8,5BCEFA&hide_border=true)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=2500&vCenter=true&width=450&height=55&lines=%E4%BD%A0%E5%A5%BD%EF%BC%81%E6%88%91%E6%98%AFDreamOneX;Hello!+I'm+DreamOneX;Nice+to+meet+you~)
 
