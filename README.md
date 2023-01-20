@@ -2,7 +2,7 @@
 
 # 🍥 DreamOneX
 
-<!---![](https://github-readme-stats.vercel.app/api?username=DreamOneX&count_private=true&show_icons=true&title_color=fff&icon_color=F8F8FF&text_color=F8F8FF&bg_color=DEG,FFB6C1,6495ED&hide_border=true)--->
+<!-- ![](https://github-readme-stats.vercel.app/api?username=DreamOneX&count_private=true&show_icons=true&title_color=fff&icon_color=F8F8FF&text_color=F8F8FF&bg_color=DEG,FFB6C1,6495ED&hide_border=true) -->
 
 ![](https://github-readme-stats.vercel.app/api?username=DreamOneX&count_private=true&show_icons=true&bg_color=5BCEFA,5BCEFA,F5A9B8,FFF,F5A9B8,5BCEFA&hide_border=true)
 
@@ -36,13 +36,11 @@ Distributor ID: Arch
 Description:    Arch Linux
 Release:        rolling
 $ nvim --version
-NVIM v0.7.0
+NVIM v0.8.2
 Build type: Release
 LuaJIT 2.1.0-beta3
 $ firefox --version
-Mozilla Firefox 102.0.1
-$ chromium --version
-Chromium 103.0.5060.134 Arch Linux
+Mozilla Firefox 109.0
 ```
 
 ## 🎲 Programming Language Stack
