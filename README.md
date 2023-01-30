@@ -113,7 +113,8 @@ DM is welcome! I suggest you to contact me via **Telegram** or **email**. If you
 
 ## 📊 Github Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DreamOneX&theme=github-dark-blue)  
-![github-profile-trophy](https://github-profile-trophy.vercel.app/?username=DreamOneX&theme=discord)
+![github-profile-trophy](https://github-profile-trophy.vercel.app/?username=DreamOneX&theme=discord)  
+![github-readme-activity-graph](https://github-readme-activity-graph.cyclic.app/graph?username=DreamOneX&theme=github)
 
 
 ---
