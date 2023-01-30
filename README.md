@@ -12,7 +12,7 @@
 > 📝 A ~~lovely neko~~ from China (人*´∀｀)｡*ﾟ Like to play Minecraft, coding and etc. What's more, I like **sleep** and want to sleep anytime ~ ~~How could an individual of `Homo sapiens` not like to sleep ?~~ I really don't like participating in any illogical discussion. Finally, I enjoy making friends. I am looking forward and welcome you to DM me via the contact information below.
 
 * Advocate free and open source culture / Love information technology
-* from China / 15 y.o.
+* from China / 15 y.o. / She / her
 * Senior High School Student / Physics, Chemistry, Biology
 * Developer / Linux Lover
 * Minecraft Lover
