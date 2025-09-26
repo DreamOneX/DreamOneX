@@ -4,7 +4,7 @@
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=DreamOneX&count_private=true&show_icons=true&title_color=fff&icon_color=F8F8FF&text_color=F8F8FF&bg_color=DEG,FFB6C1,6495ED&hide_border=true) -->
 
-![](https://github-readme-stats.vercel.app/api?username=DreamOneX&count_private=true&show_icons=true&bg_color=5BCEFA,5BCEFA,F5A9B8,FFF,F5A9B8,5BCEFA&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=DreamOneX&count_private=true&show_icons=true&hide_border=true)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=2500&vCenter=true&width=450&height=55&lines=%E4%BD%A0%E5%A5%BD%EF%BC%81%E6%88%91%E6%98%AFDreamOneX;Hello!+I'm+DreamOneX;Nice+to+meet+you~)
 
@@ -12,8 +12,7 @@
 > 📝 A ~~lovely neko~~ from China (人*´∀｀)｡*ﾟ Like to play Minecraft, coding and etc. What's more, I like **sleep** and want to sleep anytime ~ ~~How could an individual of `Homo sapiens` not like to sleep ?~~ I really don't like participating in any illogical discussion. Finally, I enjoy making friends. I am looking forward and welcome you to DM me via the contact information below.
 
 * Advocate free and open source culture / Love information technology
-* from China / 16 y.o. 
-* Pronouns: she/her
+* from China / 17 y.o. forever 
 * Senior High School Student / Physics, Chemistry, Biology
 * Developer / Linux Lover
 * Minecraft Lover
@@ -57,9 +56,6 @@ Mozilla Firefox 109.0
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
 ![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=fff)
 ![VimScript](https://img.shields.io/badge/-VimScript-019733?style=for-the-badge&logo=vim&logoColor=fff)
-
-🤬 F**k E lang (易语言 not Erlang)  
-😠 I hate PHP
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DreamOneX&layout=compact&exclude_repo=dreamonex/dreamonex.github.io,dreamonex/DawnLight-Source&langs_count=8&hide=html,css,scss)
 
